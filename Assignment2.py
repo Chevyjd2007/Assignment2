@@ -1,6 +1,6 @@
 import socket
 
-class Assignment2:
+class assignment2:
     # Task 1
     def __init__ (self, year: int) -> None:
         self.year = year
